@@ -1,0 +1,21 @@
+{
+  "name": "nocode-svelte-json-viewer",
+  "version": "0.1.0",
+  "description": "\"Format JSON data for your browser\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svelte",
+    "json",
+    "view",
+    "json",
+    "tree",
+    "json",
+    "vanilla",
+    "js"
+  ],
+  "author": "Chinmaya Bisoi <bisoi.chinmaya.1999@gmail.com>",
+  "license": "ISC"
+}
